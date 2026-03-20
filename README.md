@@ -2,7 +2,7 @@
 
 **An enterprise-grade ETL pipeline and KPI normalization engine built to govern a 300+ player gaming community through objective data.**
 
-> **Status:** Legacy / Production (2025) 
+> **Status:** Legacy / Production (2025)
 > **Role:** Lead Data Engineer & Kingdom Council Member  
 > **Key Result:** Fully automated the ingestion, cleaning, and complex scoring of 300-600 users across multi-week campaign events.
 > **Live Dashboard:** [PowerBI Dashboard]([Microsoft Power BI](https://app.powerbi.com/view?r=eyJrIjoiMTU2NmU5ODItNjU0YS00MTEwLTgxODAtMjcxOTJlZGFiMTdlIiwidCI6IjYyZTAxNWZhLTM4MjUtNDRiOC04Yzk5LWVjODhlMjEzYTk3OSJ9)) 
@@ -165,13 +165,11 @@ Players can view their currency on an event‑by‑event basis, allowing them to
 ## 📂 Repository Structure
 
 ```text
-/Game-Data-Analytics-Engine
+/Game-Data-Analytics-Engine (preview)
 ├── READme
-├── Documentation    # Doc with the explanation of the code and the updates (previously github)
+├── Documentation    # Doc with the explanation of the code and the updates
 |
 ├── /1_ETL_and_Data_Cleaning        # Power Query (M) scripts for data ingestion and quarantine
 ├── /2_Algorithms_and_Logic         # Complex KPI normalization and CP calculation formulas
 └── /assets                         # 
 ```
-
-
